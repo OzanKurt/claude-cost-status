@@ -1,0 +1,5 @@
+{
+  "name": "claude-cost-status",
+  "owner": { "name": "Ozan Kurt" },
+  "plugins": [{ "name": "cost", "source": "./" }]
+}
